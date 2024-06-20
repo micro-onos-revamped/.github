@@ -5,3 +5,5 @@ As far as I know, the Atomix framework for distributed system, which is used in 
 Project _µONOS Revamped_ aims at replacing Atomix with Hazelcast, a framework which is still active, has better community support and more features.
 
 Sorry, Atomix, you might have some good idea, but as of now, you're a piece of sh** !
+
+If you're interest in the original Micro-ONOS project, [here you go !] (https://github.com/onosproject/) Yet, I'm not affiliated with them at the moment.
